@@ -2,22 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1d18c0c-5ed8-400b-a2de-b821703b6756" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/Java/website/Websites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Java/website/result.html" afterDir="false" />
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/Papers/IL12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/Papers/IL8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/Papers/NPhil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/Papers/Paper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/Papers/TNFAVivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/paperToHTML/ResultsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/paperToHTML/cardCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/searchDB/ChartMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/searchDB/DatasetList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/searchDB/DatasetTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/searchDB/PaperGetTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/searchDB/SearchDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/searchDB/TimeAxis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/website/scripts/datasetJS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Java/website/scripts/resultsChart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/exdb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/exdb.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/jsonin.sql" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/jsonin.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/timeinput.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/timeinput.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Java/ExDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/ExDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/searchDB/ResultDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/searchDB/ResultDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/searchDB/ResultsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/searchDB/ResultsList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/connectDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/searchDB/ResultDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/searchDB/ResultsList.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Java/website/FileToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/website/FileToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/website/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/website/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Java/website/signin.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/website/signin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/website/Websites.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/website/Websites.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/website/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/website/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/website/results.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+>>>>>>> cd64cd408f035fbf70ec9e5fae10fff91819df0f
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +89,18 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="ExDB" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ExDB" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ExDB" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -71,7 +111,14 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="ExDB" type="f1a62948:ProjectNode" />
-                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ExDB" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -96,6 +143,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -215,7 +263,32 @@
       <option name="project" value="LOCAL" />
       <updated>1575768880270</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="3" />
+=======
+    <task id="LOCAL-00003" summary="papers and sql connection">
+      <created>1575855495641</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575855495641</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix search db">
+      <created>1576055801901</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576055801901</updated>
+    </task>
+    <task id="LOCAL-00005" summary="conflict resolved?">
+      <created>1576057806128</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576057806128</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+>>>>>>> cd64cd408f035fbf70ec9e5fae10fff91819df0f
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +311,13 @@
     <MESSAGE value="loading the data that we were given in the heroku postgress&#10;check the file dataset for instruction in the text file and the relevant files" />
     <MESSAGE value="fixes html styling&#10;fixes get post in servlet&#10;adds switch in servlet path" />
     <MESSAGE value="Creates template for search&#10;Returns an example search&#10;Fixes ExDB" />
+<<<<<<< HEAD
     <option name="LAST_COMMIT_MESSAGE" value="Creates template for search&#10;Returns an example search&#10;Fixes ExDB" />
+=======
+    <MESSAGE value="papers and sql connection" />
+    <MESSAGE value="fix search db" />
+    <MESSAGE value="conflict resolved?" />
+    <option name="LAST_COMMIT_MESSAGE" value="conflict resolved?" />
+>>>>>>> cd64cd408f035fbf70ec9e5fae10fff91819df0f
   </component>
 </project>
