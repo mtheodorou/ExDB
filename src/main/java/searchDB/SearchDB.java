@@ -13,7 +13,7 @@ public class SearchDB {
 
         ArrayList<Paper> results = new ArrayList<>();
 
-        String dbUrl = System.getenv("DATABASE_URL=postgres://kuygrdgjxujchn:4d4cc3d8f95bfe592b3e49c57b7ec1630a019a088786231343ea4911ae75300c@ec2-54-75-235-28.eu-west-1.compute.amazonaws.com:5432/daj5n0eo50u8rj");
+        String dbUrl = "postgres://kuygrdgjxujchn:4d4cc3d8f95bfe592b3e49c57b7ec1630a019a088786231343ea4911ae75300c@ec2-54-75-235-28.eu-west-1.compute.amazonaws.com:5432/daj5n0eo50u8rj";
         try {
             // Registers the driver
             Class.forName("org.postgresql.Driver");
