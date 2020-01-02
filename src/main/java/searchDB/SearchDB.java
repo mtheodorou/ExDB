@@ -13,14 +13,14 @@ public class SearchDB {
 
         ArrayList<Paper> results = new ArrayList<>();
 
-        String dbUrl = "jdbc:postgresql://localhost:5432/postgres";
+        String dbUrl = System.getenv("JDBC_DATABASE_URL");
         try {
             // Registers the driver
             Class.forName("org.postgresql.Driver");
         } catch (Exception e) {
         }
 
-        Connection conn= DriverManager.getConnection(dbUrl, "postgres", "nestoras");
+        Connection conn= DriverManager.getConnection(dbUrl);
 
         try {
             Statement s = conn.createStatement();
